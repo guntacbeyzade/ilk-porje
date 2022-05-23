@@ -1,0 +1,19 @@
+body {
+  background-color: green;
+  margin: 0;
+  padding: 0;
+  font-family: Roboto, "Open Sans", sans-serif;
+  box-sizing: border-box;
+  width: 90%;
+  text-align: center;
+  margin: auto;
+}
+h1 {
+  background-color: greenyellow;
+  font-size: 36px;
+}
+#html-icon {
+  border-width: 0;
+  border-radius: 25%;
+  width: 200px;
+}
